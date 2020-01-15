@@ -66,6 +66,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578944739210">
       <screen x="0" y="23" width="1440" height="805" />
