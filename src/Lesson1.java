@@ -1,6 +1,7 @@
 public class Lesson1 {
     public static void main(String[] args) {
-        System.out.println(calc(2.4f, 2.9f, 1.5f, 5.7f));
+        
+        System.out.println(calc(2, 2, 1, 5));
         System.out.println(checkSumNumbers(1, 13));
         isPositive(5);
         System.out.println(isNegative(5));
@@ -11,8 +12,8 @@ public class Lesson1 {
     // Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,
     // где a, b, c, d – аргументы этого метода, имеющие тип float.
 
-    public static float calc(float a, float b, float c, float d){
-        float result = a * (b + (c / d));
+    public static float calc(int a, int b, int c, int d){
+        float result = a * (b + ((float)c / d));
         return result;
     }
 
