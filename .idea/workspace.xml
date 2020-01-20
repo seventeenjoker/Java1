@@ -31,8 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1" />
+    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2" />
       <module name="Java1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -40,7 +40,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson1" />
+        <item itemvalue="Application.Lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -83,33 +83,61 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="92" key="#Notifications" timestamp="1579094766912">
+    <state x="320" y="92" key="#Notifications" timestamp="1579353961704">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="320" y="92" key="#Notifications/0.23.1440.805@0.23.1440.805" timestamp="1579094766912" />
-    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578944739210">
+    <state x="320" y="92" key="#Notifications/0.23.1440.805@0.23.1440.805" timestamp="1579353961704" />
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579347693315">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1578944739210" />
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1579279497608">
+    <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1579347693315" />
+    <state x="483" y="139" key="#xdebugger.evaluate" timestamp="1579517300716">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579279497608" />
-    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1579279497607">
+    <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.805@0.23.1440.805" timestamp="1579517300716" />
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1579528011616">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1579279497607" />
-    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1579279497607">
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579528011616" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1579528011615">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1579279497607" />
-    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1579279497607">
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1579528011615">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1579279497607" />
-    <state x="374" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1579278833949">
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1579528011615">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="374" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1579278833949" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
+    <state width="1358" height="204" key="GridCell.Tab.1.bottom" timestamp="1579528011700">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579528011700" />
+    <state width="1358" height="204" key="GridCell.Tab.1.center" timestamp="1579528011699">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
+    <state width="1358" height="204" key="GridCell.Tab.1.left" timestamp="1579528011699">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
+    <state width="1358" height="204" key="GridCell.Tab.1.right" timestamp="1579528011699">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
+    <state x="374" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1579508472877">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="374" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1579508472877" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr.length - n" language="JAVA" />
+        <watch expression="arrTmp[i - n]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
