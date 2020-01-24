@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2" />
       <module name="Java1" />
@@ -38,8 +38,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Java1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Lesson2" />
       </list>
     </recent_temporary>
@@ -95,48 +103,61 @@
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.805@0.23.1440.805" timestamp="1579517300716" />
-    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1579528011616">
+    <state width="1398" height="179" key="GridCell.Tab.0.bottom" timestamp="1579863757743">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579528011616" />
-    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1579528011615">
+    <state width="1398" height="179" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579863757743" />
+    <state width="1398" height="179" key="GridCell.Tab.0.center" timestamp="1579863757743">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
-    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1579528011615">
+    <state width="1398" height="179" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1579863757743" />
+    <state width="1398" height="179" key="GridCell.Tab.0.left" timestamp="1579863757742">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
-    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1579528011615">
+    <state width="1398" height="179" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1579863757742" />
+    <state width="1398" height="179" key="GridCell.Tab.0.right" timestamp="1579863757743">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1579528011615" />
-    <state width="1358" height="204" key="GridCell.Tab.1.bottom" timestamp="1579528011700">
+    <state width="1398" height="179" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1579863757743" />
+    <state width="1398" height="218" key="GridCell.Tab.1.bottom" timestamp="1579863608948">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579528011700" />
-    <state width="1358" height="204" key="GridCell.Tab.1.center" timestamp="1579528011699">
+    <state width="1398" height="218" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579863608948" />
+    <state width="1398" height="218" key="GridCell.Tab.1.center" timestamp="1579863608948">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
-    <state width="1358" height="204" key="GridCell.Tab.1.left" timestamp="1579528011699">
+    <state width="1398" height="218" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1579863608948" />
+    <state width="1398" height="218" key="GridCell.Tab.1.left" timestamp="1579863608947">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
-    <state width="1358" height="204" key="GridCell.Tab.1.right" timestamp="1579528011699">
+    <state width="1398" height="218" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1579863608947" />
+    <state width="1398" height="218" key="GridCell.Tab.1.right" timestamp="1579863608948">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1358" height="204" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1579528011699" />
+    <state width="1398" height="218" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1579863608948" />
     <state x="374" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1579508472877">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="374" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1579508472877" />
+    <state x="97" y="30" key="new project wizard" timestamp="1579535110052">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="97" y="30" key="new project wizard/0.23.1440.805@0.23.1440.805" timestamp="1579535110052" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TicTacToe.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="arr.length - n" language="JAVA" />
-        <watch expression="arrTmp[i - n]" language="JAVA" />
+        <watch expression="field.length - 1" language="JAVA" />
+        <watch expression="fieldSizeX" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
