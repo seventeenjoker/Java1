@@ -14,6 +14,7 @@ public class Employee {
     private String mobileNum;
     private int salary;
     private int birthYear;
+    private int id;
 
     Employee(String fio, String position, String mobileNum, int salary, int birthYear){
         System.out.println("Создаем карточку нового сотрудника...");
@@ -23,6 +24,7 @@ public class Employee {
         this.setSalary(salary);
         this.birthYear = birthYear;
         this.PKey += 1;
+        this.setPKey(PKey);
         System.out.printf("Создан сотрудник №%d: %s, позиция: %s, телефонный номер: %s, зарплата: %d \n",
                 PKey, fio, position, mobileNum, salary
         );
@@ -30,7 +32,11 @@ public class Employee {
 
     public void getInfo(){
         System.out.printf("ФИО сотрудника №%d: %s;\nПозиция: %s;\nТелефонный номер: %s;\nЗарплата: %d.\n",
-                PKey, fio, position, mobileNum, salary);
+                id, fio, position, mobileNum, salary);
+    }
+
+    public void setPKey(int PKey) {
+        this.id = PKey;
     }
 
     public void getFio() {
@@ -41,6 +47,7 @@ public class Employee {
     public void setFio(String fio) {
         this.fio = fio;
     }
+
 
     public void getPosition() {
         System.out.println(position);
