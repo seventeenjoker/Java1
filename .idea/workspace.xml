@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork4">
+  <component name="RunManager" selected="Application.main">
     <configuration name="HomeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork4" />
       <module name="Java1" />
@@ -52,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork5.main" />
+      <module name="Java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.HomeWork4" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Lesson2" />
@@ -107,30 +121,34 @@
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1579347693315" />
-    <state x="432" y="93" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1579895475880">
+    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1580322155799">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state x="432" y="93" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1440.805@0.23.1440.805" timestamp="1579895475880" />
+    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/0.23.1440.805@0.23.1440.805" timestamp="1580322155799" />
+    <state x="432" y="93" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1580320901568">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="432" y="93" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1440.805@0.23.1440.805" timestamp="1580320901568" />
     <state x="483" y="139" key="#xdebugger.evaluate" timestamp="1579517300716">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="483" y="139" key="#xdebugger.evaluate/0.23.1440.805@0.23.1440.805" timestamp="1579517300716" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1580066914872">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1580324312654">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1580066914872" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1580066914872">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1580324312654" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1580324312654">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1580066914872" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1580066914871">
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1580324312654" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1580324312653">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1580066914871" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1580066914872">
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1580324312653" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1580324312654">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1580066914872" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1580324312654" />
     <state width="1398" height="218" key="GridCell.Tab.1.bottom" timestamp="1580062994760">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
